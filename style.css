@@ -147,7 +147,7 @@ span{
     align-items:center;
     margin:15px;
 }
-.main-section{
+.hero-section{
     background-image: linear-gradient(to bottom, transparent 80%, white 100%), url("assets/main_image1.jpg");
     height: 600px;
     background-size: cover;
